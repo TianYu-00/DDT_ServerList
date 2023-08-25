@@ -1,0 +1,17 @@
+C:\Users\liang\source\repos\DDT_ServerList\DDT_ServerList\bin\Debug\DDT_ServerList.exe.config
+C:\Users\liang\source\repos\DDT_ServerList\DDT_ServerList\bin\Debug\DDT_ServerList.exe
+C:\Users\liang\source\repos\DDT_ServerList\DDT_ServerList\bin\Debug\DDT_ServerList.pdb
+C:\Users\liang\source\repos\DDT_ServerList\DDT_ServerList\obj\Debug\DDT_ServerList.FormMain.resources
+C:\Users\liang\source\repos\DDT_ServerList\DDT_ServerList\obj\Debug\DDT_ServerList.Properties.Resources.resources
+C:\Users\liang\source\repos\DDT_ServerList\DDT_ServerList\obj\Debug\DDT_ServerList.csproj.GenerateResource.cache
+C:\Users\liang\source\repos\DDT_ServerList\DDT_ServerList\obj\Debug\DDT_ServerList.csproj.CoreCompileInputs.cache
+C:\Users\liang\source\repos\DDT_ServerList\DDT_ServerList\obj\Debug\DDT_ServerList.exe
+C:\Users\liang\source\repos\DDT_ServerList\DDT_ServerList\obj\Debug\DDT_ServerList.pdb
+C:\Users\liang\source\repos\DDT_ServerList\DDT_ServerList\bin\Debug\DDT_ServerList.exe.manifest
+C:\Users\liang\source\repos\DDT_ServerList\DDT_ServerList\bin\Debug\DDT_ServerList.application
+C:\Users\liang\source\repos\DDT_ServerList\DDT_ServerList\obj\Debug\DDT_ServerList.exe.manifest
+C:\Users\liang\source\repos\DDT_ServerList\DDT_ServerList\obj\Debug\DDT_ServerList.application
+C:\Users\liang\source\repos\DDT_ServerList\DDT_ServerList\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\liang\source\repos\DDT_ServerList\DDT_ServerList\obj\Debug\DDT_ServerList.csproj.Fody.CopyLocal.cache
+C:\Users\liang\source\repos\DDT_ServerList\DDT_ServerList\obj\Debug\DDT_ServerList.csproj.CopyComplete
+C:\Users\liang\source\repos\DDT_ServerList\DDT_ServerList\obj\Debug\DDT_ServerList.csproj.AssemblyReference.cache
